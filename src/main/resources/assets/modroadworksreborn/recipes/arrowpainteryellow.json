@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		" w ",
+		"wsw",
+		" s "
+	],
+	"key":
+	{
+		"w":
+		{
+			"item": "minecraft:wool",
+			"data": 4
+		},
+		"s":
+		{
+			"type": "forge:ore_dict",
+			"ore": "stickWood"
+		}
+	},
+	"result":
+	{
+		"item": "modroadworksreborn:arrowpainteryellow",
+		"count": 1
+	}
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modroadworksreborn",
+  "name": "RoadWorks Reborn",
+  "description": "This is a forked version of W.Thieves' RoadWorks",
+  "version": "0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CSX8600", "WThieves"],
+  "credits": "W.Thieves for the original mod as the original textures are used",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

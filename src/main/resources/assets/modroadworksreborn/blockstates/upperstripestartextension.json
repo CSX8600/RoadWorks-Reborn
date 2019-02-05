@@ -1,0 +1,8 @@
+{
+	"variants": {
+        "facing=south": { "model": "modroadworksreborn:upperstripestartextension", "y": 180 },
+        "facing=west": { "model": "modroadworksreborn:upperstripestartextension", "y": 270 },
+        "facing=north": { "model": "modroadworksreborn:upperstripestartextension" },
+        "facing=east": { "model": "modroadworksreborn:upperstripestartextension", "y": 90 }
+    }
+}

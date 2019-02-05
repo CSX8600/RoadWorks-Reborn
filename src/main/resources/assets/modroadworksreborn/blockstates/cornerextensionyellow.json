@@ -1,0 +1,8 @@
+{
+	"variants": {
+        "facing=south": { "model": "modroadworksreborn:cornerextensionyellow", "y": 180 },
+        "facing=west": { "model": "modroadworksreborn:cornerextensionyellow", "y": 270 },
+        "facing=north": { "model": "modroadworksreborn:cornerextensionyellow" },
+        "facing=east": { "model": "modroadworksreborn:cornerextensionyellow", "y": 90 }
+    }
+}
